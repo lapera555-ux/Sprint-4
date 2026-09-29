@@ -1,0 +1,49 @@
+{
+  "checked_utc": "2026-09-28T23:39:04.055333+00:00",
+  "db_path": "/mnt/data/sompo_ui_build/sompo_mvp/data/sompo_local.db",
+  "status": "PASS_WITH_DECLARED_SOURCE",
+  "warnings": [
+    "Origem Mendeley declarada pelo usuário e integridade local verificada; hash oficial do editor indisponível via API autenticada",
+    "ZIP UCI fornecido pelo navegador: integridade local verificada; download oficial declarado pelo usuário"
+  ],
+  "strict_real_data_required": true,
+  "checks": {
+    "checked_utc": "2026-09-28T23:39:03.922863+00:00",
+    "db_path": "/mnt/data/sompo_ui_build/sompo_mvp/data/sompo_local.db",
+    "sqlite_integrity": "ok",
+    "foreign_key_errors": 0,
+    "synthetic_demo_readings": 0,
+    "real_tractor_files": 10,
+    "real_tractor_measurements": 889255,
+    "real_tractor_windows": 895,
+    "real_hydraulic_sources": 1,
+    "real_hydraulic_cycles": 2205,
+    "tractor_models": 1,
+    "hydraulic_models": 1,
+    "real_data_present": true,
+    "original_raw_files_locally_verified_again": false,
+    "pending_manual": [
+      "real dataset download/import unless counts above are verified",
+      "actual screenshots by student",
+      "human narrated unlisted YouTube video",
+      "reconciliation with Sprint 1 stories",
+      "private GitHub sharing and submission"
+    ],
+    "failures": []
+  },
+  "tractor_raw_verified_again": true,
+  "hydraulic_raw_verified_again": true,
+  "tractor_import_files": 10,
+  "hydraulic_imports": 1,
+  "tractor_lineage_rows": 895,
+  "hydraulic_lineage_rows": 450,
+  "counts": {
+    "agro_windows": 895,
+    "agro_anomaly_scores": 895,
+    "agro_investigations": 40,
+    "agro_investigation_events": 40,
+    "hydraulic_cycles": 2205,
+    "hydraulic_predictions": 450
+  },
+  "issues": []
+}

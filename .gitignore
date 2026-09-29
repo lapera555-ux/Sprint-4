@@ -1,0 +1,25 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.env
+*.py[cod]
+data/*.db
+!data/sompo_reproducible.db
+data/*.db-*
+models/*_local.joblib
+models/*_local.metrics.json
+models/*_validacao*.joblib
+models/*_validacao*.metrics.json
+.DS_Store
+
+# Industrial source files can be hundreds of megabytes: use official UCI link + local receipt.
+data/raw/
+
+# Official source bytes are downloaded locally, never committed as synthetic evidence.
+data/real/
+data/*.db-wal
+data/*.db-shm
+models/tractor-iforest-*.joblib
+models/hydraulic-*.joblib
+models/*_real_metrics.json
+models/tractor_anomaly_metrics.json

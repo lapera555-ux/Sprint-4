@@ -1,0 +1,16 @@
+SOMPO AGRO RISK INTELLIGENCE | FIAP SPRINT 4 | GRUPO 58
+Autor: Pedro Gomes12 | RM 571446 | rm571446@fiap.com.br
+Curso: Tecnologia em Inteligência Artificial (On-Line)
+Video demonstrativo informado: https://youtu.be/wJ7WDSu_58Y
+Repositorio informado: https://github.com/lapera555-ux/Sprint-4
+
+1. Extraia o ZIP por completo. Nao execute dentro do WinRAR.
+2. Leia GUIA_PROFISSIONAL_SOMPO_AGRO.pdf.
+3. Execute ABRIR_SOMPO_WINDOWS.bat na pasta principal.
+4. Crie uma senha de administrador forte apenas no computador. Usuario: admin.
+5. Entre em http://127.0.0.1:8501 e mantenha a janela aberta.
+6. Em outra janela, execute VALIDAR_SOMPO_WINDOWS.bat.
+7. Nao publique o SQLite com usuarios locais, CPF, .env, credenciais nem tokens.
+8. Antes da entrega, ajuste a visibilidade do GitHub conforme exigencia do enunciado e confira o link do video.
+
+As fontes originais acompanham o pacote em ZIPs e sao restauradas na primeira inicializacao com conferencia de hash local. Nenhuma medicao do trator e apresentada como sinistro real.

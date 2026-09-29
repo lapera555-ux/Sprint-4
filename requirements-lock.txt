@@ -1,0 +1,9 @@
+# Versões observadas durante a validação do núcleo no ambiente de análise.
+# Streamlit é necessário para executar AppTest e foi indisponível neste ambiente.
+# Instale requirements.txt; o modelo exige scikit-learn 1.8.0.
+numpy==2.3.5
+pandas==2.2.3
+scikit-learn==1.8.0
+joblib==1.5.3
+pytest==9.0.2
+streamlit>=1.38,<2
